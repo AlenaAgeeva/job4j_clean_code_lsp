@@ -9,4 +9,5 @@ package ru.job4j.ood.isp.menu;
  * Вывести меню в консоль.
  */
 public class TodoApp {
+
 }
